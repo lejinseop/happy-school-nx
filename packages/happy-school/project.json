@@ -1,0 +1,6 @@
+{
+  "root": "packages/happy-school",
+  "sourceRoot": "packages/happy-school/src",
+  "projectType": "application",
+  "tags": []
+}

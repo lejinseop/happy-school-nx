@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "happy-school": "packages/happy-school",
+    "schedule-widget": "packages/schedule-widget"
+  }
+}

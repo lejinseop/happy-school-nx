@@ -1,0 +1,6 @@
+{
+  "root": "packages/schedule-widget",
+  "sourceRoot": "packages/schedule-widget/src",
+  "projectType": "application",
+  "tags": []
+}
